@@ -11,14 +11,17 @@ This project implements a chat-based quiz interface where students answer questi
 
 ## Setup and Installation
 
-1. Clone this repository
-   git clone <repository-url>
+1. Clone this repository  
+   git clone (https://github.com/yaswanths12/quiz-chart-chat.git)  
    cd quiz-chart-chat
-2. Install dependencies:
-   npm install
+
+2. Install dependencies:  
+   npm install  
    npm install zustand recharts
-3. Start the development server:
+
+3. Start the development server:  
    npm start
+
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
    ## Tech Stack
